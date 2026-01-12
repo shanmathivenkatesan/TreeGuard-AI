@@ -61,7 +61,7 @@ TreeGuard AI follows a micro-service based architecture:
 ## Prototype
 
 Figma UI Prototype:  
-👉 [Click here to view the TreeGuard AI prototype](https://www.figma.com/make/lcegwWgzosnftDBBrQ8ilY/Tree-Care-Network?fullscreen=1)
+👉 https://daily-koala-69081639.figma.site
 
 
 ## Demo Video
